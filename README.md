@@ -23,10 +23,10 @@ Mes domaines de compétences comprennent :
 - Développement Web et bases de données
 
 ## 🎓 Formation
-- **2026 – Présent | Bachelor Réseaux, Cloud et Sécurité — El Kelaâ des Sraghna
+
+- **2026 – Présent :** Bachelor Réseaux, Cloud et Sécurité — EST El Kelaâ des Sraghna
 - **2024 – 2026 :** DUT Réseaux Informatiques et Sécurités — EST Guelmim
 - **2023 :** Baccalauréat Sciences Physiques
-
 ## 💼 Expériences professionnelles
 
 ### 🔐 Stage de Fin d'Études — OCP Maintenance Solutions
