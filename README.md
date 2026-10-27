@@ -1,134 +1,20 @@
-# 👨‍💻 Ahmed ELBOUSSOUNI
+# Portfolio React V4 — Ahmed Elboussouni
 
-### 🌐 Réseaux Informatiques | ☁️ Cloud Computing | 🔐 Cybersécurité
+## Installation
+1. Décompresser **tout** le ZIP (pas uniquement App.jsx).
+2. Ouvrir le dossier `ahmed-react-portfolio` dans VS Code.
+3. Exécuter `npm install` puis `npm run dev`.
+4. Ouvrir l’URL localhost affichée par Vite.
 
-🎓 **Diplômé en Réseaux Informatiques et Sécurités**
+## Photos GITEX
+Les cinq fichiers `public/images/gitex-1.jpg` à `gitex-5.jpg` sont inclus. Si les photos n’apparaissent pas, vérifier qu’elles sont bien présentes à ces chemins et relancer Vite.
 
-Bienvenue sur mon portfolio personnel ! Passionné par l'administration des systèmes, les réseaux informatiques et la cybersécurité, je m'intéresse particulièrement à la supervision des infrastructures, à la sécurité réseau et à la détection des incidents.
+## Changements V4
+- Ajout du Bachelor Réseaux, Cloud et Cybersécurité à l’EST El Kelaâ des Sraghna.
+- Les stages de 2024 et 2025 portent le titre Stage d’initiation, Groupe OCP.
+- Nouvelle illustration originale de base de données pour Gestion des stagiaires — OCP.
+- Affichage GITEX renforcé et images incluses dans le projet.
+- Les certificats Cisco originaux restent inclus.
 
-🌐 **Portfolio :** [aelboussouni.netlify.app](https://aelboussouni.netlify.app)
 
----
-
-## 👨‍🎓 À propos de moi
-
-Je suis diplômé d'un **DUT Réseaux Informatiques et Sécurités**, obtenu à l'École Supérieure de Technologie de Guelmim.
-
-Mes domaines de compétences comprennent :
-
-- Administration des systèmes Linux
-- Configuration et interconnexion des réseaux informatiques
-- Supervision et sécurité des infrastructures
-- Analyse du trafic et des incidents de sécurité
-- Développement Web et bases de données
-
-## 🎓 Formation
-
-- **2026 – Présent :** Bachelor Réseaux, Cloud et Sécurité — EST El Kelaâ des Sraghna
-- **2024 – 2026 :** DUT Réseaux Informatiques et Sécurités — EST Guelmim
-- **2023 :** Baccalauréat Sciences Physiques
-## 💼 Expériences professionnelles
-
-### 🔐 Stage de Fin d'Études — OCP Maintenance Solutions
-
-**Safi, Maroc | Avril – Mai 2026**
-
-- Déploiement et administration de la plateforme **Wazuh (SIEM)**
-- Supervision et analyse des logs de sécurité
-- Intégration des agents Windows et Linux
-- Mise en place d'un accès distant sécurisé via **Tailscale VPN**
-- Configuration des alertes et des règles de détection
-- Simulation d'attaques et analyse des incidents de sécurité
-
-### 💻 Stage d'Initiation — Groupe OCP
-
-**Safi, Maroc | Juin 2025**
-
-- Conception d'une base de données
-- Développement d'un site web de gestion des stagiaires
-
-## 🚀 Projets académiques
-
-### 🌐 Réseau d'entreprise sécurisé
-
-- Configuration des services DHCP, DNS, FTP et Mail
-- Supervision de l'infrastructure avec Zabbix
-- Mise en place de règles de sécurité Firewall
-- Simulation et analyse d'attaques DoS/DDoS
-
-### 🔐 Étude du protocole ICMP
-
-Analyse du protocole ICMP et simulation d'attaques DoS/DDoS.
-
-### 🛡️ Sécurisation DHCP avec GNS3
-
-Simulation d'attaques et mise en place de mécanismes de sécurisation DHCP.
-
-### 💻 Développement informatique
-
-- Développement d'une application Web Front-End
-- Réalisation d'une calculatrice en architecture client/serveur
-
-## 🛠️ Compétences techniques
-
-**🌐 Réseaux**
-- TCP/IP
-- DHCP, DNS, FTP, Mail Server
-- Interconnexion des réseaux
-- GNS3 et Wireshark
-
-**🔐 Cybersécurité**
-- Wazuh (SIEM)
-- Firewall
-- Cryptographie
-- Analyse des attaques DoS/DDoS
-- Supervision avec Zabbix
-
-**💻 Programmation & Systèmes**
-- Python
-- Java
-- C
-- Linux
-- Développement Web
-- MySQL / NoSQL
-
-## 📜 Certifications Cisco
-
-Certifications obtenues auprès de **Cisco Networking Academy** :
-
-- ✅ Endpoint Security — Avril 2026
-- ✅ Networking Basics — Avril 2026
-- ✅ Introduction to Cybersecurity — Août 2026
-- ✅ Network Defense — Août 2026
-
-## 💻 Technologies du portfolio
-
-- React
-- JavaScript (JSX)
-- HTML5 / CSS3
-- Vite
-- Git & GitHub
-- Netlify
-
-## ⚙️ Installation du portfolio
-
-```bash
-git clone https://github.com/ahmedelboussouni/Portfolio-Ahmed-ELBOUSSOUNI.git
-cd Portfolio-Ahmed-ELBOUSSOUNI
-npm install
-npm run dev
-```
-
-## 📬 Contact
-
-📧 **Email :** ahmedelboussouni1@gmail.com
-
-🌐 **Portfolio :** https://aelboussouni.netlify.app
-
-💻 **GitHub :** https://github.com/ahmedelboussouni
-
----
-
-© 2026 Ahmed ELBOUSSOUNI — Portfolio Personnel.
-
-*Réseaux Informatiques • Cloud Computing • Cybersécurité*
+Mise à jour: thème bleu, menu FR/EN/AR et CV PDF dans public/cv.pdf.
